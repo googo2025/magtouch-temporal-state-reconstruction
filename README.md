@@ -1,6 +1,8 @@
-![磁场历史驱动的三维形变估计轻量预览](media/final138_3d_preview_zh.gif)
+![半球实验序列：三维形变与磁片状态，5倍速](media/compact/final138_compact_hemisphere_zh_5x.gif)
 
-最终138轮模型的展示样本1。图中是估计柔性形变和磁片状态，不是实测形变真值；位移倍率为1。GIF仅为轻量预览，时间量化到百分之一秒，不补造中间形变。查看[原生时钟视频](media/native/sequence_01_zh.mp4)或[全部原生视频](docs/MEDIA.md)。
+最终138轮模型的半球实验序列，紧凑显示三维形变、磁片位姿和15通道磁场波形。**按原实验时间5×回放，形变倍率1**；表面按位移模长共用色标，磁片颜色仅表示材质。完整80个保存状态保留，未知状态为灰色，不插值。形变是模型估计，不是实测真值。
+
+[中文5×视频](media/compact/final138_compact_hemisphere_zh_5x.mp4) · [English 5× video](media/compact/final138_compact_hemisphere_en_5x.mp4) · [同一序列原生视频](media/native/sequence_07_zh.mp4) · [全部媒体与时钟说明](docs/MEDIA.md)
 
 # 物理约束下柔性磁触觉的时序状态重建与观测一致性评价
 

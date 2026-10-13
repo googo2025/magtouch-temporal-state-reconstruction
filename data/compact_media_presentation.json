@@ -1,0 +1,73 @@
+{
+  "schema": "compact_final_model_presentation_v1",
+  "model_epoch": 138,
+  "shape": "hemisphere",
+  "display_sample": 7,
+  "language_versions": [
+    "zh",
+    "en"
+  ],
+  "playback_speed": 5,
+  "saved_states": 80,
+  "valid_states": 79,
+  "unknown_states": 1,
+  "native_field_rows": 3092,
+  "valid_field_rows": 3091,
+  "MP4_dimensions": [
+    1600,
+    1000
+  ],
+  "GIF_dimensions": [
+    1200,
+    750
+  ],
+  "native_span_seconds": 90.8908927,
+  "MP4_duration_seconds": 18.17818,
+  "GIF_duration_seconds": 18.19,
+  "MP4_clock_rounding_bound_ns": 500,
+  "GIF_clock_rounding_bound_ms": 5,
+  "displacement_multiplier": 1,
+  "colour_quantity": "surface displacement magnitude / mm",
+  "shared_colour_limit_mm": 5.106819560174577,
+  "colormap": "turbo",
+  "magnetic_discs": "fixed material colour; not displacement colour",
+  "reference": "measured magnetic field; deformation is a model estimate, not measured ground truth",
+  "decoded_MP4_frames_per_language": 80,
+  "all_GIF_frames_quantized_RGB_verified": true,
+  "actual_native_canvas_keyframes_reviewed": 10,
+  "programmatic_text_layout_frames": 160,
+  "new_training_updates": 0,
+  "new_model_inferences": 0,
+  "new_mechanics_solves": 0,
+  "original_native_media_preserved": true,
+  "assets": [
+    {
+      "path": "media/compact/final138_compact_hemisphere_zh_5x.mp4",
+      "bytes": 1660405,
+      "sha256": "ca84c44b8c5a3175b4f290bb6da243b1dec987d68d62042c2941cd81b0d1557a",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/compact/final138_compact_hemisphere_zh_5x.gif",
+      "bytes": 11169469,
+      "sha256": "7bd945e3d94da51ec9708bdc497837739175b7e18594aaf4f5f5bd800770376c",
+      "kind": "GIF",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/compact/final138_compact_hemisphere_en_5x.mp4",
+      "bytes": 1685150,
+      "sha256": "d65361de7a7c3f447f1ee4a954be0a94e8bb71c94bb23870533891493c56db1d",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/compact/final138_compact_hemisphere_en_5x.gif",
+      "bytes": 11784229,
+      "sha256": "1f4df4789992123986c0b2fa5257408525a562cc9f95e062ae100e2aafadf3a3",
+      "kind": "GIF",
+      "rights": "project_media_permission_no_blanket_MIT"
+    }
+  ]
+}

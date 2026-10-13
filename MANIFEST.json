@@ -1,5 +1,5 @@
 {
-  "schema": "public_companion_closed_assets_v1",
+  "schema": "public_companion_closed_assets_with_compact_media_v2",
   "model_epoch": 138,
   "files": [
     {
@@ -379,8 +379,65 @@
       "sha256": "9f5cf90f6ef234c02b0979c587afef3701bb48c0940ebbede65478f74d2b25f8",
       "kind": "MIT_physics_source",
       "rights": "MIT_exact_two_file_grant"
+    },
+    {
+      "path": "README.en.md",
+      "bytes": 5712,
+      "sha256": "4b61deeea7ae9f04f807f18fd5e310c7b21073176f165669ebce9044c735b746",
+      "kind": "MD",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5074,
+      "sha256": "95cf3b99151f839f375ed1959f900697a93aa2b185fa5255d1cfde17b92963de",
+      "kind": "MD",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "data/compact_media_presentation.json",
+      "bytes": 2403,
+      "sha256": "51b4457b7a09cbed766c025b7a708cc4246b9b8beb1eaca263a89a54f896f585",
+      "kind": "JSON",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "docs/MEDIA.md",
+      "bytes": 3828,
+      "sha256": "1b676e0d6d695b801967d8c1e3101a4449dd06a61716b9ad02af0d144ec562e4",
+      "kind": "MD",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/compact/final138_compact_hemisphere_en_5x.gif",
+      "bytes": 11784229,
+      "sha256": "1f4df4789992123986c0b2fa5257408525a562cc9f95e062ae100e2aafadf3a3",
+      "kind": "GIF",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/compact/final138_compact_hemisphere_en_5x.mp4",
+      "bytes": 1685150,
+      "sha256": "d65361de7a7c3f447f1ee4a954be0a94e8bb71c94bb23870533891493c56db1d",
+      "kind": "MP4",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/compact/final138_compact_hemisphere_zh_5x.gif",
+      "bytes": 11169469,
+      "sha256": "7bd945e3d94da51ec9708bdc497837739175b7e18594aaf4f5f5bd800770376c",
+      "kind": "GIF",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/compact/final138_compact_hemisphere_zh_5x.mp4",
+      "bytes": 1660405,
+      "sha256": "ca84c44b8c5a3175b4f290bb6da243b1dec987d68d62042c2941cd81b0d1557a",
+      "kind": "MP4",
+      "rights": "project_publication_permission_no_blanket_MIT"
     }
   ],
   "manifest_scope": "Exact accepted paper/figure/media/display helper copies and the two MIT-authorized physics source copies. New metadata and rebased Markdown are separately checked.",
-  "no_scientific_payload": true
+  "no_scientific_payload": true,
+  "compact_media_increment": "data/compact_media_presentation.json"
 }

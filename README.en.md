@@ -1,6 +1,8 @@
-![Light preview of magnetic-history-driven deformation estimates](media/final138_3d_preview_en.gif)
+![Hemispherical sequence: deformation and disc states, 5x playback](media/compact/final138_compact_hemisphere_en_5x.gif)
 
-Display sample 1 from the selected epoch-138 model. Geometry and magnet poses are estimates, not measured deformation ground truth; displacement scale is 1. This GIF rounds timing to centiseconds and does not synthesize intermediate deformation. See the [native-clock video](media/native/sequence_01_en.mp4) and [all native videos](docs/MEDIA.md).
+The selected epoch-138 model in a compact view of deformation, magnetic-disc poses, and all 15 magnetic-field channels. **Playback is 5x the original experimental time; displacement factor is 1.** Surface colours share one displacement-magnitude scale; disc colours denote material only. All 80 saved states are retained, UNKNOWN is grey, and no states are interpolated. Deformation is a model estimate, not measured ground truth.
+
+[English 5x video](media/compact/final138_compact_hemisphere_en_5x.mp4) · [中文5×视频](media/compact/final138_compact_hemisphere_zh_5x.mp4) · [Same sequence at native speed](media/native/sequence_07_en.mp4) · [All media and clock details](docs/MEDIA.md)
 
 # Temporal State Reconstruction and Observation Consistency of Flexible Magnetic Tactile Sensing under Physical Constraints
 
