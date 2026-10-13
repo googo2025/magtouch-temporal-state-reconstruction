@@ -1,0 +1,37 @@
+{
+  "kind": "physical experiment video preview",
+  "model": {
+    "representation": "explicit node and magnet states",
+    "epoch": 138,
+    "identity": "direct confirmation by experimenter"
+  },
+  "original": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "duration_s": 25.787333,
+    "sha256": "d74e4014151b3a65aa959304af25c0cfc53861c4dd858aff72628bd21d42ab11"
+  },
+  "gif": {
+    "width": 800,
+    "height": 450,
+    "frames": 52,
+    "display_fps": 6,
+    "speed": 3,
+    "duration_s": 8.67,
+    "loop": true,
+    "palette_colours": 256
+  },
+  "presentation": {
+    "full_segment": true,
+    "camera_view": "finger, device and display in one original camera view",
+    "interpolation": false,
+    "deformation_amplification": false,
+    "time_shift_fitting": false
+  },
+  "evidence": "qualitative final-model physical operation and online deformation display",
+  "replay_denominator_included": false,
+  "dense_displacement_error": null,
+  "latency_metric": null,
+  "original_video_publicly_uploaded": false
+}

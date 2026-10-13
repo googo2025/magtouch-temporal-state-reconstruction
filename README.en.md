@@ -1,3 +1,11 @@
+![Physical pressing and online 3D deformation display: final explicit model, epoch 138](media/measured/final138_real_demo_3x.gif)
+
+**Physical device demonstration | final explicit node and magnet state model, epoch 138.** The original camera view includes the finger pressing the soft device and a display of local three-dimensional deformation during interaction. Model identity is confirmed by the experimenter. This physical demonstration complements the saved sequence replay below.
+
+The GIF samples the complete original 25.8-second segment for a **3x preview** (about 8.7 seconds), without interpolation or deformation amplification. It demonstrates actual operation of the final model; quantitative magnetic errors remain based on complete sequence replay. [Media and evidence details](media/measured/demonstration.json)
+
+---
+
 ![Hemispherical sequence: deformation and disc states, 5x playback](media/compact/final138_compact_hemisphere_en_5x.gif)
 
 The selected epoch-138 model in a compact view of deformation, magnetic-disc poses, and all 15 magnetic-field channels. **Playback is 5x the original experimental time; displacement factor is 1.** Surface colours share one displacement-magnitude scale; disc colours denote material only. All 80 saved states are retained, UNKNOWN is grey, and no states are interpolated. Deformation is a model estimate, not measured ground truth.

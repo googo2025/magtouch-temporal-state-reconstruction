@@ -382,15 +382,15 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 5712,
-      "sha256": "4b61deeea7ae9f04f807f18fd5e310c7b21073176f165669ebce9044c735b746",
+      "bytes": 6612,
+      "sha256": "4df0a7047823095a555809165cfd6a43829ecac2afa377f77422012256bf9874",
       "kind": "MD",
       "rights": "project_publication_permission_no_blanket_MIT"
     },
     {
       "path": "README.md",
-      "bytes": 5074,
-      "sha256": "95cf3b99151f839f375ed1959f900697a93aa2b185fa5255d1cfde17b92963de",
+      "bytes": 5793,
+      "sha256": "331d37336ca24518f5814608824116283ab888a8b3753610cf4ddcc6b9ffe6e6",
       "kind": "MD",
       "rights": "project_publication_permission_no_blanket_MIT"
     },
@@ -403,8 +403,8 @@
     },
     {
       "path": "docs/MEDIA.md",
-      "bytes": 3828,
-      "sha256": "1b676e0d6d695b801967d8c1e3101a4449dd06a61716b9ad02af0d144ec562e4",
+      "bytes": 5111,
+      "sha256": "cd4097b380bafc3949f9bf36cb4d8ede3637dad88eaf38ff739c8c9de7d05297",
       "kind": "MD",
       "rights": "project_publication_permission_no_blanket_MIT"
     },
@@ -435,9 +435,29 @@
       "sha256": "ca84c44b8c5a3175b4f290bb6da243b1dec987d68d62042c2941cd81b0d1557a",
       "kind": "MP4",
       "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/measured/final138_real_demo_3x.gif",
+      "bytes": 9207130,
+      "sha256": "2465fec7e5fd24f633dee55d2d3fae6ef25fed3e402710219deac4c94dbe04b4",
+      "kind": "GIF",
+      "rights": "experimenter_authorized_publication_no_blanket_MIT"
+    },
+    {
+      "path": "media/measured/demonstration.json",
+      "bytes": 1062,
+      "sha256": "771bfb8795e2c8d49b62932dc9ee2ab398a2db0aee6dc01f9368f372f375e282",
+      "kind": "metadata",
+      "rights": "experimenter_authorized_publication_no_blanket_MIT"
     }
   ],
   "manifest_scope": "Exact accepted paper/figure/media/display helper copies and the two MIT-authorized physics source copies. New metadata and rebased Markdown are separately checked.",
   "no_scientific_payload": true,
-  "compact_media_increment": "data/compact_media_presentation.json"
+  "compact_media_increment": "data/compact_media_presentation.json",
+  "measured_demo_increment": {
+    "model_epoch": 138,
+    "video_model_identity_confirmed": true,
+    "full_segment_3x_preview": true,
+    "source_video_public_upload": false
+  }
 }

@@ -32,3 +32,12 @@
 首页[中文GIF](../media/final138_3d_preview_zh.gif)和[English GIF](../media/final138_3d_preview_en.gif)仅为展示样本1的已渲染像素裁块。GIF时钟最大绝对舍入4.883ms，末帧保持10ms，总38.130s；对应原生MP4最大时钟舍入500ns，末帧1µs，总38.119988s。不同格式的时钟精度不能混称。
 
 已有18视频的80帧全解码与原生时钟验收复用，累计72张关键PNG曾按原尺寸审阅；不是全部1440帧人工逐张检查。原libx264宏块率／级别警告保留，不宣称全部播放器兼容。打包没有重新解码、编码或生成任何媒体。
+
+
+## 实物按压视频预览 / Physical pressing preview
+
+首页新增 [最终显式138实物演示GIF](../media/measured/final138_real_demo_3x.gif)。实验者直接确认运行第138轮显式节点／磁片状态模型。原片段25.787333 s、1280×720、30 fps；GIF为800×450、52帧、3×、8.670 s，保留完整过程和同一摄像画面，未插值、拟时移或改变形变倍率。256色GIF会量化颜色；原MP4在作者处保留，本次仅公开无声GIF。
+
+The homepage adds a physical pressing demonstration of the final explicit epoch-138 model, directly confirmed by the experimenter. The complete 25.787333 s source is sampled into a 52-frame, 800×450 GIF at 3x speed, lasting 8.670 s. The same camera view is retained without interpolation, fitted time shift or deformation amplification. GIF palette and centisecond time quantization apply. The original MP4 is retained by the authors; this increment publishes only the silent GIF.
+
+该片段与原保存半球序列是不同实验，不计入97／101条回测分母。它支持实物运行与在线形变显示的定性结论，不单独计算毫米形变误差或响应时延。详细元数据见 [demonstration.json](../media/measured/demonstration.json)。
