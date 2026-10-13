@@ -1,0 +1,23 @@
+{
+  "schema": "display_contract_example_v1",
+  "example_only": true,
+  "selected_epoch": 138,
+  "position_unit": "mm",
+  "angle_unit": "rad",
+  "displacement_scale": 1,
+  "q_secondary_scaling": false,
+  "interpolation": false,
+  "saved_slots_per_sequence": 80,
+  "accepted_slots": 79,
+  "UNKNOWN_slots": 1,
+  "UNKNOWN_style": "grey nominal",
+  "shared_color_limit_uz_mm": 5.549398697992772,
+  "view": {
+    "elevation_degrees": 25,
+    "azimuth_degrees": -58,
+    "equal_XYZ_mm_scale": true,
+    "reuse_shared_original_XYZ_bounds": true
+  },
+  "external_u_pose": null,
+  "no_model_or_data_paths": true
+}

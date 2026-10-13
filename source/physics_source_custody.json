@@ -1,0 +1,23 @@
+{
+  "status": "EXACT_TWO_MIT_AUTHORIZED_SOURCE_COPIES_INCLUDED",
+  "files": [
+    {
+      "name": "rigid_mesh.py",
+      "expected_sha256": "b09898ce79da01f5e67dd8758356f1da80e32da05cecd136867ac8094d3f5e8d",
+      "license": "MIT",
+      "included": true,
+      "path": "source/physics/rigid_mesh.py",
+      "bytes": 5709
+    },
+    {
+      "name": "fast_magnetic.py",
+      "expected_sha256": "9f5cf90f6ef234c02b0979c587afef3701bb48c0940ebbede65478f74d2b25f8",
+      "license": "MIT",
+      "included": true,
+      "path": "source/physics/fast_magnetic.py",
+      "bytes": 3254
+    }
+  ],
+  "permission_scope": "Only these two original physics sources, not all repository materials",
+  "no_private_source_paths": true
+}

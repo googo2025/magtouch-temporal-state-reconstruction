@@ -1,0 +1,1498 @@
+{
+  "schema": "epoch_scalar_curve_v1",
+  "selected_epoch": 138,
+  "evaluation_cutoff": 160,
+  "early_phase": "Epochs 1 to 37 use model weak-reference pretraining, not the later measured-field loss.",
+  "DEV_missing_epochs": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "epoch0_TRAIN_total": null,
+  "not_raw_scientific_arrays": true,
+  "epochs": [
+    {
+      "epoch": 0,
+      "TRAIN_total": null,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.8754234592898338,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 1,
+      "TRAIN_total": 0.35546504277751584,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.17051437550023302,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 2,
+      "TRAIN_total": 0.12776376204479462,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.08573551311200196,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 3,
+      "TRAIN_total": 0.07178696392799457,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.0588081039541464,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 4,
+      "TRAIN_total": 0.04972899826272647,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.051107504907883884,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 5,
+      "TRAIN_total": 0.039236562816902965,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.03535737896087139,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 6,
+      "TRAIN_total": 0.031163892706036582,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.03146788203114495,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 7,
+      "TRAIN_total": 0.027744413390638423,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.025560524053239213,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 8,
+      "TRAIN_total": 0.02357897493795706,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.021868010811100957,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 9,
+      "TRAIN_total": 0.020707751937805666,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.02466092293031006,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 10,
+      "TRAIN_total": 0.019751505151203455,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.026114503662974093,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 11,
+      "TRAIN_total": 0.019346283866636824,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.01819945255871941,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 12,
+      "TRAIN_total": 0.01739621382390492,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.01810859130004329,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 13,
+      "TRAIN_total": 0.015737234929998564,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.01744234880962795,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 14,
+      "TRAIN_total": 0.014338957609235987,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.01470674626062401,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 15,
+      "TRAIN_total": 0.016077938741463176,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.015374324400431807,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 16,
+      "TRAIN_total": 0.013114943437621469,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.012541927442212893,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 17,
+      "TRAIN_total": 0.015202795244930583,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.0144740166749607,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 18,
+      "TRAIN_total": 0.011750668861889463,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.011365708633980329,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 19,
+      "TRAIN_total": 0.012925341593120362,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.012245696339269575,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 20,
+      "TRAIN_total": 0.017800521992322255,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.012102629950374331,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 21,
+      "TRAIN_total": 0.011023679935771455,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.011436710240750006,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 22,
+      "TRAIN_total": 0.009257434754371012,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.01000415646879803,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 23,
+      "TRAIN_total": 0.009501957206695683,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.012470130116729218,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 24,
+      "TRAIN_total": 0.009389219405298122,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.01099525701400409,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 25,
+      "TRAIN_total": 0.009814114941679844,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.014556378336489945,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 26,
+      "TRAIN_total": 0.013234736355004788,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.012159591486766725,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 27,
+      "TRAIN_total": 0.01022108909596481,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.010039020762336256,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 28,
+      "TRAIN_total": 0.009263948740654913,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.012768871136809587,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 29,
+      "TRAIN_total": 0.008618585906362313,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.01002677310990814,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 30,
+      "TRAIN_total": 0.011508261964589588,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.018431919859511113,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 31,
+      "TRAIN_total": 0.00813156396772227,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.010690709214671574,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 32,
+      "TRAIN_total": 0.008710417778594624,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.012171841924172153,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 33,
+      "TRAIN_total": 0.012113854211171083,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.00799638167099843,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 34,
+      "TRAIN_total": 0.008275561229419316,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.010920736699391071,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 35,
+      "TRAIN_total": 0.007039392152032977,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.0090384375887035,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 36,
+      "TRAIN_total": 0.008333369684406688,
+      "DEV_RMSE_uT": null,
+      "DEV_MAE_uT": null,
+      "early_model_reference_monitor_total": 0.011094106745484195,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 37,
+      "TRAIN_total": 0.00810486521429666,
+      "DEV_RMSE_uT": 12.448827038605467,
+      "DEV_MAE_uT": 6.766585379003729,
+      "early_model_reference_monitor_total": 0.007308105073470399,
+      "protocol": "MODEL_REFERENCE_PRETRAIN_NOT_MEASURED_B",
+      "complete": true
+    },
+    {
+      "epoch": 38,
+      "TRAIN_total": 0.03129601566123464,
+      "DEV_RMSE_uT": 9.736184090314898,
+      "DEV_MAE_uT": 5.8449476407884715,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 39,
+      "TRAIN_total": 0.024106623792135663,
+      "DEV_RMSE_uT": 8.529437675554616,
+      "DEV_MAE_uT": 5.374232842238145,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 40,
+      "TRAIN_total": 0.02230486357525372,
+      "DEV_RMSE_uT": 8.8935299881471,
+      "DEV_MAE_uT": 5.296705117635488,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 41,
+      "TRAIN_total": 0.022571572294663608,
+      "DEV_RMSE_uT": 8.657576101508356,
+      "DEV_MAE_uT": 5.549306474812426,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 42,
+      "TRAIN_total": 0.021477708018779528,
+      "DEV_RMSE_uT": 9.144479806713079,
+      "DEV_MAE_uT": 5.763112224234066,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 43,
+      "TRAIN_total": 0.020800159359905385,
+      "DEV_RMSE_uT": 8.314681198158738,
+      "DEV_MAE_uT": 4.878323199367596,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 44,
+      "TRAIN_total": 0.02300957539279492,
+      "DEV_RMSE_uT": 7.4333199028063035,
+      "DEV_MAE_uT": 4.919344594366996,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 45,
+      "TRAIN_total": 0.019076736651303276,
+      "DEV_RMSE_uT": 6.685731650439558,
+      "DEV_MAE_uT": 4.147278106259841,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 46,
+      "TRAIN_total": 0.017985230125179604,
+      "DEV_RMSE_uT": 7.3625575009154725,
+      "DEV_MAE_uT": 4.489951998150793,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 47,
+      "TRAIN_total": 0.019672214007255637,
+      "DEV_RMSE_uT": 10.461646344108823,
+      "DEV_MAE_uT": 6.689025004585354,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 48,
+      "TRAIN_total": 0.01825711657586845,
+      "DEV_RMSE_uT": 10.170465305160276,
+      "DEV_MAE_uT": 6.320804437098271,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 49,
+      "TRAIN_total": 0.01814774390051193,
+      "DEV_RMSE_uT": 7.885224637430786,
+      "DEV_MAE_uT": 4.653077213852512,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 50,
+      "TRAIN_total": 0.01984036469028829,
+      "DEV_RMSE_uT": 7.681222059593458,
+      "DEV_MAE_uT": 4.537405583076731,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 51,
+      "TRAIN_total": 0.02169286259006574,
+      "DEV_RMSE_uT": 7.059917841269148,
+      "DEV_MAE_uT": 4.384376766979457,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 52,
+      "TRAIN_total": 0.016735799788103016,
+      "DEV_RMSE_uT": 6.765883063441893,
+      "DEV_MAE_uT": 4.212632636276623,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 53,
+      "TRAIN_total": 0.018440112064492798,
+      "DEV_RMSE_uT": 6.261581785740394,
+      "DEV_MAE_uT": 3.756754925416306,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 54,
+      "TRAIN_total": 0.016205935662302676,
+      "DEV_RMSE_uT": 8.196183070925672,
+      "DEV_MAE_uT": 4.461219283158815,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 55,
+      "TRAIN_total": 0.01704338375707532,
+      "DEV_RMSE_uT": 12.635156975066156,
+      "DEV_MAE_uT": 6.757557871365209,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 56,
+      "TRAIN_total": 0.01759355705927335,
+      "DEV_RMSE_uT": 10.320905917589634,
+      "DEV_MAE_uT": 5.859145491393833,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 57,
+      "TRAIN_total": 0.01826783368853045,
+      "DEV_RMSE_uT": 8.706318847494943,
+      "DEV_MAE_uT": 4.733039076518453,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 58,
+      "TRAIN_total": 0.016177575034848613,
+      "DEV_RMSE_uT": 8.047734189777035,
+      "DEV_MAE_uT": 4.676423287951435,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 59,
+      "TRAIN_total": 0.017297895341076813,
+      "DEV_RMSE_uT": 7.78247810313438,
+      "DEV_MAE_uT": 4.4522305516793805,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 60,
+      "TRAIN_total": 0.015997379759042193,
+      "DEV_RMSE_uT": 7.840736178994488,
+      "DEV_MAE_uT": 4.929695099138554,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 61,
+      "TRAIN_total": 0.01599357577888115,
+      "DEV_RMSE_uT": 6.108219283910974,
+      "DEV_MAE_uT": 3.606217858578845,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV",
+      "complete": true
+    },
+    {
+      "epoch": 62,
+      "TRAIN_total": 0.012984492615968287,
+      "DEV_RMSE_uT": 5.383752480002099,
+      "DEV_MAE_uT": 3.1152955929850514,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 63,
+      "TRAIN_total": 0.012781318116950342,
+      "DEV_RMSE_uT": 4.9683467732715645,
+      "DEV_MAE_uT": 2.9308148753157224,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 64,
+      "TRAIN_total": 0.01272881497675166,
+      "DEV_RMSE_uT": 4.9765683696657135,
+      "DEV_MAE_uT": 2.960741819630941,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 65,
+      "TRAIN_total": 0.012622817016061993,
+      "DEV_RMSE_uT": 4.972588779302639,
+      "DEV_MAE_uT": 2.9576049322143434,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 66,
+      "TRAIN_total": 0.012678829022511766,
+      "DEV_RMSE_uT": 5.3608110814146865,
+      "DEV_MAE_uT": 3.118221492786608,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 67,
+      "TRAIN_total": 0.012602166306872248,
+      "DEV_RMSE_uT": 5.158260853534916,
+      "DEV_MAE_uT": 3.075203053011131,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 68,
+      "TRAIN_total": 0.012603237715365985,
+      "DEV_RMSE_uT": 4.94183583648307,
+      "DEV_MAE_uT": 3.006449009897203,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 69,
+      "TRAIN_total": 0.012558951764482464,
+      "DEV_RMSE_uT": 4.938479523203097,
+      "DEV_MAE_uT": 2.950871123870119,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 70,
+      "TRAIN_total": 0.012601992483680598,
+      "DEV_RMSE_uT": 5.200221609216156,
+      "DEV_MAE_uT": 3.1412415545119567,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 71,
+      "TRAIN_total": 0.012440903188236794,
+      "DEV_RMSE_uT": 4.820042783197378,
+      "DEV_MAE_uT": 2.99689560718579,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 72,
+      "TRAIN_total": 0.012518382713708677,
+      "DEV_RMSE_uT": 5.216563249335982,
+      "DEV_MAE_uT": 3.121853096298963,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 73,
+      "TRAIN_total": 0.012269841147307588,
+      "DEV_RMSE_uT": 4.840267459089842,
+      "DEV_MAE_uT": 2.9217816824297214,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 74,
+      "TRAIN_total": 0.012455990503178064,
+      "DEV_RMSE_uT": 4.696067599670217,
+      "DEV_MAE_uT": 2.8122124117418767,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 75,
+      "TRAIN_total": 0.012169624690455096,
+      "DEV_RMSE_uT": 5.051287489776214,
+      "DEV_MAE_uT": 3.0572018953738067,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 76,
+      "TRAIN_total": 0.012153253675853059,
+      "DEV_RMSE_uT": 5.363227185530164,
+      "DEV_MAE_uT": 3.221612089208465,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 77,
+      "TRAIN_total": 0.012357221229097059,
+      "DEV_RMSE_uT": 4.941403178830139,
+      "DEV_MAE_uT": 3.0294755373887994,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 78,
+      "TRAIN_total": 0.012111972577857273,
+      "DEV_RMSE_uT": 5.465025317656183,
+      "DEV_MAE_uT": 3.3830549048923877,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 79,
+      "TRAIN_total": 0.012169636481767221,
+      "DEV_RMSE_uT": 4.6970004236602305,
+      "DEV_MAE_uT": 2.792916570646858,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 80,
+      "TRAIN_total": 0.011942560986368606,
+      "DEV_RMSE_uT": 4.953218802049358,
+      "DEV_MAE_uT": 3.0469814869087077,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 81,
+      "TRAIN_total": 0.012252732855015073,
+      "DEV_RMSE_uT": 4.680885107426788,
+      "DEV_MAE_uT": 2.760075299025318,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 82,
+      "TRAIN_total": 0.011992053559194076,
+      "DEV_RMSE_uT": 5.328416897692057,
+      "DEV_MAE_uT": 3.286969013910066,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 83,
+      "TRAIN_total": 0.01203484781777328,
+      "DEV_RMSE_uT": 4.791628175429433,
+      "DEV_MAE_uT": 2.8365170070507877,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 84,
+      "TRAIN_total": 0.011836431773800515,
+      "DEV_RMSE_uT": 4.780734404014636,
+      "DEV_MAE_uT": 2.959994368804164,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 85,
+      "TRAIN_total": 0.011809654435260398,
+      "DEV_RMSE_uT": 4.698594612002752,
+      "DEV_MAE_uT": 2.770479419553831,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 86,
+      "TRAIN_total": 0.01188243768154077,
+      "DEV_RMSE_uT": 4.862321617529121,
+      "DEV_MAE_uT": 2.893486101198766,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 87,
+      "TRAIN_total": 0.011652681956526606,
+      "DEV_RMSE_uT": 5.086496833970401,
+      "DEV_MAE_uT": 2.9834305271317816,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 88,
+      "TRAIN_total": 0.011663182821566604,
+      "DEV_RMSE_uT": 5.159190010912048,
+      "DEV_MAE_uT": 3.0923161274811,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 89,
+      "TRAIN_total": 0.011710168441794145,
+      "DEV_RMSE_uT": 4.899184495412673,
+      "DEV_MAE_uT": 2.8663032118600666,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 90,
+      "TRAIN_total": 0.011510421144848704,
+      "DEV_RMSE_uT": 5.273329389452816,
+      "DEV_MAE_uT": 3.1847365990969605,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 91,
+      "TRAIN_total": 0.011673512807245236,
+      "DEV_RMSE_uT": 4.719302433212083,
+      "DEV_MAE_uT": 2.875938210452619,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 92,
+      "TRAIN_total": 0.011511407947935872,
+      "DEV_RMSE_uT": 4.575884038495757,
+      "DEV_MAE_uT": 2.7354817409667254,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 93,
+      "TRAIN_total": 0.01155153517469459,
+      "DEV_RMSE_uT": 4.966458981680289,
+      "DEV_MAE_uT": 2.9436643714723334,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 94,
+      "TRAIN_total": 0.011410630149325019,
+      "DEV_RMSE_uT": 4.4962516042019,
+      "DEV_MAE_uT": 2.6437609419697967,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 95,
+      "TRAIN_total": 0.011410977503168218,
+      "DEV_RMSE_uT": 4.6716543063291525,
+      "DEV_MAE_uT": 2.768062100181473,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 96,
+      "TRAIN_total": 0.011294622888697151,
+      "DEV_RMSE_uT": 4.5647439170701825,
+      "DEV_MAE_uT": 2.7084555186103088,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 97,
+      "TRAIN_total": 0.01131263054354613,
+      "DEV_RMSE_uT": 4.874380504942989,
+      "DEV_MAE_uT": 2.8286938488096793,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 98,
+      "TRAIN_total": 0.011349881325256165,
+      "DEV_RMSE_uT": 4.816141151180187,
+      "DEV_MAE_uT": 2.825315612448542,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 99,
+      "TRAIN_total": 0.011220983781144396,
+      "DEV_RMSE_uT": 4.865005528767177,
+      "DEV_MAE_uT": 2.9538143538470143,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 100,
+      "TRAIN_total": 0.011339544261985631,
+      "DEV_RMSE_uT": 4.9469393403925315,
+      "DEV_MAE_uT": 2.89722545767315,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 101,
+      "TRAIN_total": 0.011227685414309884,
+      "DEV_RMSE_uT": 5.076473489924731,
+      "DEV_MAE_uT": 3.024689198081756,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 102,
+      "TRAIN_total": 0.011332894474036199,
+      "DEV_RMSE_uT": 4.452084605047369,
+      "DEV_MAE_uT": 2.7357235476346964,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 103,
+      "TRAIN_total": 0.011093255199218189,
+      "DEV_RMSE_uT": 4.491776382244002,
+      "DEV_MAE_uT": 2.6627681233615093,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 104,
+      "TRAIN_total": 0.01098861121875409,
+      "DEV_RMSE_uT": 5.0902648615911135,
+      "DEV_MAE_uT": 3.0243439058146357,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 105,
+      "TRAIN_total": 0.011022693125114906,
+      "DEV_RMSE_uT": 5.549596657737486,
+      "DEV_MAE_uT": 3.030496062925301,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 106,
+      "TRAIN_total": 0.011313133542341538,
+      "DEV_RMSE_uT": 4.413751971725863,
+      "DEV_MAE_uT": 2.5726967514415664,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 107,
+      "TRAIN_total": 0.010957685292696594,
+      "DEV_RMSE_uT": 4.711349917597329,
+      "DEV_MAE_uT": 2.7647985093819307,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 108,
+      "TRAIN_total": 0.01111740782404012,
+      "DEV_RMSE_uT": 4.60140646938125,
+      "DEV_MAE_uT": 2.7672773016379524,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 109,
+      "TRAIN_total": 0.01083434216953708,
+      "DEV_RMSE_uT": 4.556124051263745,
+      "DEV_MAE_uT": 2.722140082889953,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 110,
+      "TRAIN_total": 0.01098336622663611,
+      "DEV_RMSE_uT": 4.370490992671838,
+      "DEV_MAE_uT": 2.6101940184189365,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 111,
+      "TRAIN_total": 0.010804645355304848,
+      "DEV_RMSE_uT": 4.8295725280853965,
+      "DEV_MAE_uT": 2.7919429250962122,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 112,
+      "TRAIN_total": 0.010881883084501415,
+      "DEV_RMSE_uT": 4.713104387268473,
+      "DEV_MAE_uT": 2.8387471032569573,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 113,
+      "TRAIN_total": 0.010856151492309537,
+      "DEV_RMSE_uT": 4.524970725447166,
+      "DEV_MAE_uT": 2.719118882469853,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 114,
+      "TRAIN_total": 0.010638448635807509,
+      "DEV_RMSE_uT": 4.4730056651548535,
+      "DEV_MAE_uT": 2.626412230064599,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 115,
+      "TRAIN_total": 0.010633752642790031,
+      "DEV_RMSE_uT": 4.536335069095606,
+      "DEV_MAE_uT": 2.662708005261952,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 116,
+      "TRAIN_total": 0.010826286385956773,
+      "DEV_RMSE_uT": 4.614155766346891,
+      "DEV_MAE_uT": 2.71709316828276,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 117,
+      "TRAIN_total": 0.010654153347511039,
+      "DEV_RMSE_uT": 5.19861778557017,
+      "DEV_MAE_uT": 2.9311084237818354,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 118,
+      "TRAIN_total": 0.010631473475472625,
+      "DEV_RMSE_uT": 4.6345505657543224,
+      "DEV_MAE_uT": 2.8345733500292414,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 119,
+      "TRAIN_total": 0.010748645181006053,
+      "DEV_RMSE_uT": 4.551573235946611,
+      "DEV_MAE_uT": 2.73992800839709,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 120,
+      "TRAIN_total": 0.010588617627848178,
+      "DEV_RMSE_uT": 4.622527878553106,
+      "DEV_MAE_uT": 2.7561121361860286,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 121,
+      "TRAIN_total": 0.010384527927171082,
+      "DEV_RMSE_uT": 5.274167013828216,
+      "DEV_MAE_uT": 3.121134220062823,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 122,
+      "TRAIN_total": 0.010502966013630568,
+      "DEV_RMSE_uT": 4.885020204629155,
+      "DEV_MAE_uT": 2.9524285010101883,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 123,
+      "TRAIN_total": 0.010430209047900364,
+      "DEV_RMSE_uT": 4.431647847161365,
+      "DEV_MAE_uT": 2.614949367344289,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 124,
+      "TRAIN_total": 0.010625654197487342,
+      "DEV_RMSE_uT": 5.242936212148695,
+      "DEV_MAE_uT": 3.133912756000404,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 125,
+      "TRAIN_total": 0.010479301499851129,
+      "DEV_RMSE_uT": 4.5562592336557675,
+      "DEV_MAE_uT": 2.743728355866843,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 126,
+      "TRAIN_total": 0.010395450765469069,
+      "DEV_RMSE_uT": 4.412865394948049,
+      "DEV_MAE_uT": 2.6199817886997643,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 127,
+      "TRAIN_total": 0.010271807406062351,
+      "DEV_RMSE_uT": 4.7957537431554,
+      "DEV_MAE_uT": 2.759224957072365,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 128,
+      "TRAIN_total": 0.010248054993416385,
+      "DEV_RMSE_uT": 4.2306898435887925,
+      "DEV_MAE_uT": 2.4966831852718507,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 129,
+      "TRAIN_total": 0.010238339935955737,
+      "DEV_RMSE_uT": 4.6441110128107415,
+      "DEV_MAE_uT": 2.742133415261916,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 130,
+      "TRAIN_total": 0.01025966655453332,
+      "DEV_RMSE_uT": 4.300984275070659,
+      "DEV_MAE_uT": 2.5344470259448513,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 131,
+      "TRAIN_total": 0.010215508518870348,
+      "DEV_RMSE_uT": 4.44170378952363,
+      "DEV_MAE_uT": 2.6667595137751734,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 132,
+      "TRAIN_total": 0.010167341715452482,
+      "DEV_RMSE_uT": 4.381535148790894,
+      "DEV_MAE_uT": 2.5602606982429372,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 133,
+      "TRAIN_total": 0.010078378379419023,
+      "DEV_RMSE_uT": 4.3842823277833585,
+      "DEV_MAE_uT": 2.6510023794579993,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 134,
+      "TRAIN_total": 0.010171792649984756,
+      "DEV_RMSE_uT": 4.5374963974076845,
+      "DEV_MAE_uT": 2.7034143065473075,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 135,
+      "TRAIN_total": 0.01018619900774235,
+      "DEV_RMSE_uT": 4.62718699606784,
+      "DEV_MAE_uT": 2.82703316415992,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 136,
+      "TRAIN_total": 0.01010068820734232,
+      "DEV_RMSE_uT": 5.280882477503408,
+      "DEV_MAE_uT": 3.092519721640002,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 137,
+      "TRAIN_total": 0.010295239973517374,
+      "DEV_RMSE_uT": 4.336593832978034,
+      "DEV_MAE_uT": 2.560272338497543,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 138,
+      "TRAIN_total": 0.010007675835770294,
+      "DEV_RMSE_uT": 4.139025764220211,
+      "DEV_MAE_uT": 2.4397324334174137,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 139,
+      "TRAIN_total": 0.010016704305208532,
+      "DEV_RMSE_uT": 4.380137458114912,
+      "DEV_MAE_uT": 2.600628311740926,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 140,
+      "TRAIN_total": 0.010080279095523757,
+      "DEV_RMSE_uT": 5.1316553995348855,
+      "DEV_MAE_uT": 2.950778707860369,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 141,
+      "TRAIN_total": 0.010017654967274149,
+      "DEV_RMSE_uT": 5.1522375014335635,
+      "DEV_MAE_uT": 3.135339682997054,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 142,
+      "TRAIN_total": 0.010067524043485205,
+      "DEV_RMSE_uT": 4.6976384036355485,
+      "DEV_MAE_uT": 2.748348646036824,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 143,
+      "TRAIN_total": 0.009931583183319244,
+      "DEV_RMSE_uT": 4.369940200847042,
+      "DEV_MAE_uT": 2.5352196574320964,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 144,
+      "TRAIN_total": 0.00987315488873814,
+      "DEV_RMSE_uT": 5.037117279539479,
+      "DEV_MAE_uT": 2.910736391700916,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 145,
+      "TRAIN_total": 0.00985640467362013,
+      "DEV_RMSE_uT": 4.840892996482846,
+      "DEV_MAE_uT": 2.8997801694417147,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 146,
+      "TRAIN_total": 0.00990144716197604,
+      "DEV_RMSE_uT": 4.52263335985531,
+      "DEV_MAE_uT": 2.6548509654404224,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 147,
+      "TRAIN_total": 0.0098003417216385,
+      "DEV_RMSE_uT": 4.387018702701778,
+      "DEV_MAE_uT": 2.6249760338727253,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 148,
+      "TRAIN_total": 0.009716387254782905,
+      "DEV_RMSE_uT": 4.434715455154682,
+      "DEV_MAE_uT": 2.625852230399859,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 149,
+      "TRAIN_total": 0.009923186868009902,
+      "DEV_RMSE_uT": 4.398399935197249,
+      "DEV_MAE_uT": 2.5914953693491913,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 150,
+      "TRAIN_total": 0.009906451801196755,
+      "DEV_RMSE_uT": 4.410395902920512,
+      "DEV_MAE_uT": 2.5643152195361605,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 151,
+      "TRAIN_total": 0.00955009268264088,
+      "DEV_RMSE_uT": 4.233996822661299,
+      "DEV_MAE_uT": 2.497302807885942,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 152,
+      "TRAIN_total": 0.009653055580427315,
+      "DEV_RMSE_uT": 4.418685908752032,
+      "DEV_MAE_uT": 2.5715567876974643,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 153,
+      "TRAIN_total": 0.009580001199726608,
+      "DEV_RMSE_uT": 4.9229012049959815,
+      "DEV_MAE_uT": 2.9552461559950274,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 154,
+      "TRAIN_total": 0.009734939382195676,
+      "DEV_RMSE_uT": 4.646894101374118,
+      "DEV_MAE_uT": 2.8626482108336364,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 155,
+      "TRAIN_total": 0.009564957513487828,
+      "DEV_RMSE_uT": 4.446852188518513,
+      "DEV_MAE_uT": 2.666921130392705,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 156,
+      "TRAIN_total": 0.00963155681394901,
+      "DEV_RMSE_uT": 6.5597626000020215,
+      "DEV_MAE_uT": 3.1093700784765517,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 157,
+      "TRAIN_total": 0.009741208161694232,
+      "DEV_RMSE_uT": 5.039040760934318,
+      "DEV_MAE_uT": 3.07137249368341,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 158,
+      "TRAIN_total": 0.009577563529700614,
+      "DEV_RMSE_uT": 4.370101680346684,
+      "DEV_MAE_uT": 2.6695741952816365,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 159,
+      "TRAIN_total": 0.009401401719434044,
+      "DEV_RMSE_uT": 5.349586700934973,
+      "DEV_MAE_uT": 2.838473921460119,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    },
+    {
+      "epoch": 160,
+      "TRAIN_total": 0.00959581192911571,
+      "DEV_RMSE_uT": 4.795930922955195,
+      "DEV_MAE_uT": 2.726328449500218,
+      "early_model_reference_monitor_total": null,
+      "protocol": "MEASURED_B_ALL97_DEV_LOW_LR",
+      "complete": true
+    }
+  ]
+}

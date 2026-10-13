@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.pt
+*.pth
+*.npz
+*.npy
+*.safetensors
+*.pkl
+*.h5
+*.hdf5
+*.onnx
+private/
+raw_data/
+checkpoints/

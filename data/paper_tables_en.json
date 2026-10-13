@@ -1,0 +1,29 @@
+{
+  "schema": "accepted_core_tables_v1",
+  "tables": [
+    [
+      "| Data role | Sequences | Purpose |",
+      "| --- | ---: | --- |",
+      "| Parameter fitting | 346 | Update model parameters |",
+      "| Internal TRAIN monitoring | 16 | Check model weak-reference consistency |",
+      "| Development validation | 97 | Complete measured-field evaluation and selection |"
+    ],
+    [
+      "| Evaluation scope | Sequences | Jointly valid points | RMSE µT | MAE µT |",
+      "| --- | ---: | ---: | ---: | ---: |",
+      "| All development sequences | 97 | 233791 | 4.139 | 2.440 |",
+      "| Small flat | 30 | 49151 | 1.984 | 1.443 |",
+      "| Hemisphere | 52 | 126419 | 4.749 | 2.731 |",
+      "| Original round | 15 | 58221 | 4.062 | 2.648 |"
+    ],
+    [
+      "| Magnetic input | Reconstruction target | RMSE µT | MAE µT |",
+      "| --- | --- | ---: | ---: |",
+      "| Generated | Generated | 13.636 | 7.758 |",
+      "| Generated | Measured | 19.090 | 10.758 |",
+      "| Measured | Generated | 22.833 | 13.235 |",
+      "| Measured | Measured | 9.144 | 5.763 |"
+    ]
+  ],
+  "no_new_scientific_calculation": true
+}

@@ -1,0 +1,5 @@
+# Observed display context only, not a locked original training environment.
+# External installation is not tested by this preparation package.
+numpy==2.4.6
+matplotlib==3.10.8
+Pillow==12.3.0

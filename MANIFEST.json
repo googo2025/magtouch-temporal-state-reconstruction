@@ -1,0 +1,386 @@
+{
+  "schema": "public_companion_closed_assets_v1",
+  "model_epoch": 138,
+  "files": [
+    {
+      "path": "paper/soft_magnetic_tactile_core_zh.pdf",
+      "bytes": 1890206,
+      "sha256": "8b98be6948792f9671382646b51ebec2386ec1a47730414386ea8cda8ff6baa9",
+      "kind": "PDF",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "paper/soft_magnetic_tactile_core_en.pdf",
+      "bytes": 1784343,
+      "sha256": "bd73ac9aaf328819127347ab72cedd246da7d11b165f440a3447b2a280a40a4a",
+      "kind": "PDF",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "paper/soft_magnetic_tactile_supplement_zh.pdf",
+      "bytes": 7196190,
+      "sha256": "72d077af7aef9cf97424c4cac5943893eb504f6ad9c520501815650be64a7341",
+      "kind": "PDF",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "paper/soft_magnetic_tactile_supplement_en.pdf",
+      "bytes": 7354895,
+      "sha256": "72123c0383bb3b16f7a2d499cc132fa67612cb68d058d6fe6252b40c4a7ccb0e",
+      "kind": "PDF",
+      "rights": "project_publication_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/method_zh.png",
+      "bytes": 291417,
+      "sha256": "c707306985954d6bf71bafed2d0a813e06d9cbb44da1d428e18c8726e65925ce",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/deformation_zh.png",
+      "bytes": 802880,
+      "sha256": "28ba0be35ad165ebf98b63342ba632fed926e286da2ecfaa1c78e441b13aac14",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/field_replay_zh.png",
+      "bytes": 412685,
+      "sha256": "ec1be40f1c9ebddfaf0bcec83d1f873820fa759e333e276e8ed16565ad3b5466",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/method_en.png",
+      "bytes": 290705,
+      "sha256": "fbb4d3ad58d745bb3213f7704f9f8fe68c93f1c0bb2906f5a57d41ab4edd0aa9",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/deformation_en.png",
+      "bytes": 800669,
+      "sha256": "b5ecfd40ec9742937d3f3d3f51713f048d3d8fd39ada57e33719ed472d9471bb",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/field_replay_en.png",
+      "bytes": 421487,
+      "sha256": "659ca778f463463ddcd1f65fb76dbe46f86779bb8504265c3528db35b5063f40",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/training_curve_zh.png",
+      "bytes": 174835,
+      "sha256": "eb65ed2e4135d159ea4700b42054bf5f56782f9e32d33c34cf17cc4d411e7924",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/matched_factorial_zh.png",
+      "bytes": 149205,
+      "sha256": "4d39ce2a30c5cf1cb87a685182b316fc2e15e65684cf79d52db17348f7cb56f0",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/channel_errors_zh.png",
+      "bytes": 390536,
+      "sha256": "fad3c3544341a91f763de6a3b9bbb76b7810e382c73cdaf9530af12dd48bae79",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/paired_sequences_zh.png",
+      "bytes": 219314,
+      "sha256": "08d93030896c40aaa578c7ed7e642379a6179fc7f013b3da6e0a4bcd7b54c80b",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_1_zh.png",
+      "bytes": 1155973,
+      "sha256": "e52f9654fd69e41d758397b86e0904deedf0a50cd513806785ac5ca5c2e1c47a",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_2_zh.png",
+      "bytes": 1064593,
+      "sha256": "32535d541ea14fa8e8d8b4a5b687018b1e11fc3e124379ff686fe4c3e1ac247b",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_4_zh.png",
+      "bytes": 899852,
+      "sha256": "f0fc42abad1dd814465e62d37f9697b5ae254cda3fc383befc89df374b6967b7",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_3_zh.png",
+      "bytes": 1037913,
+      "sha256": "6220cbe87a31644f34735fbdcd640718d411e4c38289b1bfa8b2ea5c567662bb",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_6_zh.png",
+      "bytes": 714064,
+      "sha256": "26b6b87352fb27100b3bddc36bbd41733db737602972010f16d668e9532b6f0d",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_5_zh.png",
+      "bytes": 763233,
+      "sha256": "223394eb3e6996bf0738c3538077f6fa0d080fd37249422d3f578f07702f8cdc",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/training_curve_en.png",
+      "bytes": 134992,
+      "sha256": "711d8f04612f6ac47f83d848273b5b33916a6b5b813b23ce336b46b2268cac4b",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/matched_factorial_en.png",
+      "bytes": 309624,
+      "sha256": "ec2578e1455d33d54e9d80b5b98bfc14df459bd769f74fa0d9ccd2dbeddb48ed",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/channel_errors_en.png",
+      "bytes": 387693,
+      "sha256": "ba6dc1a92937b6446c3a88920eed635ba7aca9a0cebb9695070651b793f932d8",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/paired_sequences_en.png",
+      "bytes": 221646,
+      "sha256": "aa9fc67c8a8cfa4d05d65926414ddfea0ac9bc4a9adab1a04869d0f5e2367c88",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_1_en.png",
+      "bytes": 1151692,
+      "sha256": "b7f94765966650ddebc150929b6ab62553a8400da6e9f77c7941c22c513566ec",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_2_en.png",
+      "bytes": 1061709,
+      "sha256": "3b28b698d061ec20bf40ad069fa6e12d0645acaaa36beca1ba6819d2559e9bcd",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_4_en.png",
+      "bytes": 896298,
+      "sha256": "4798052bd51be4c31619dc9572ef08e01a32be325fe3cba425611a9b02665b42",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_3_en.png",
+      "bytes": 1035108,
+      "sha256": "d744d9be8437e7cb0f3ac3200f79edb442eba7a56a61ac9d7dc1306c75596f79",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_6_en.png",
+      "bytes": 710696,
+      "sha256": "27dab30bd54ba053f6aaa623adf4603a5d425a829dd4aaad0d054537eb25e4f2",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "figures/sequence_5_en.png",
+      "bytes": 759020,
+      "sha256": "459845b48d9b2d54bf8d1ac5536c4fe77271fc9fecda1e8836dcf873445524ca",
+      "kind": "PNG",
+      "rights": "project_figure_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_01_zh.mp4",
+      "bytes": 2449933,
+      "sha256": "e6eab24cffb2c023f0b58bb94dca46fe92131deb103aeafd8004c321679ed855",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_01_en.mp4",
+      "bytes": 2483110,
+      "sha256": "9b3045f2bd5914748ce196e1fce108793210158412a8bbc78671b6588870be68",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_02_zh.mp4",
+      "bytes": 3832624,
+      "sha256": "1b38266870020c39abce9fa1a8afd56165adad6597725d2b0dc61b9d7f32d7c0",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_02_en.mp4",
+      "bytes": 3870180,
+      "sha256": "e77db1700b873f7daa9db272ee04f9b07c7db2fe51ebe6ae40370d2827427b8a",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_03_zh.mp4",
+      "bytes": 2274572,
+      "sha256": "c919cdd78f2dfccd0603b02950e8d8eec86c86cfdb447b0cfab8b717ac4405eb",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_03_en.mp4",
+      "bytes": 2305783,
+      "sha256": "49bfdf5bfe7c3abd23d043c766a41f74066318fa3869b43948498abf50bb0af9",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_05_zh.mp4",
+      "bytes": 3245729,
+      "sha256": "a2b7278f4c11ef3f0f5c3fa757d046ee3fc88c5cf717fc9dcae196bbc9cd2475",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_05_en.mp4",
+      "bytes": 3280028,
+      "sha256": "5aa26e529060d460334a44b6ae7b3cf78107117aa419d62945b9bd2dc43a69bf",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_04_zh.mp4",
+      "bytes": 2399600,
+      "sha256": "0e5282fd9c1a1dd92369fb37618b18c2d7cee80a6dc72478d080c53dba40e0dc",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_04_en.mp4",
+      "bytes": 2435212,
+      "sha256": "780b1bbf6a63baef55e9f3f20dfa9be988b8b82366dcf0fcf4fded0c0dca28a2",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_06_zh.mp4",
+      "bytes": 2890459,
+      "sha256": "0cde24f334c9b82f04467d3229890fb8eb4a6c5e3f1a1e22b18e442575423d41",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_06_en.mp4",
+      "bytes": 2929694,
+      "sha256": "3f3ecabc4d23325d1e1c5bfd0530acd6b2fdbaf8cd21879cc9465975f3a25f38",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_07_zh.mp4",
+      "bytes": 3745056,
+      "sha256": "f8bdb79d713089401d0c05bb8f32af339c77f1749fc49f3add74e1945ac87957",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_07_en.mp4",
+      "bytes": 3783547,
+      "sha256": "8406171d1a3db01903f070189630508b23e03d253aa9a7a5be488a9a51cc602d",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_09_zh.mp4",
+      "bytes": 2654994,
+      "sha256": "f4c9c8acfce18e4c7968bda1065fe5fd7772ff4ad70f723e15ad0eb12a46f471",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_09_en.mp4",
+      "bytes": 2688900,
+      "sha256": "70a2d59462c8b17fb3837945bd43c1a53c1265e39a4c2cc3909871d340f9304c",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_08_zh.mp4",
+      "bytes": 3772361,
+      "sha256": "26da9299edd71184f414f989fb1a89801568029a36eba8c2cfe141f7ac864c04",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/native/sequence_08_en.mp4",
+      "bytes": 3808368,
+      "sha256": "0b2e8868d43cd442898a29d3584f081b3629601428c4f7fe7febb98fd5b4c8e6",
+      "kind": "MP4",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/final138_3d_preview_zh.gif",
+      "bytes": 6438076,
+      "sha256": "8e7c639bf5dd84ee4f9fbbea82c2b126b2e473a66401eb5553158d6c17f828f0",
+      "kind": "GIF",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "media/final138_3d_preview_en.gif",
+      "bytes": 6530933,
+      "sha256": "19e360b757d6bee1f481ec44f2e8715f13d401463db247e9994f3f21126cb370",
+      "kind": "GIF",
+      "rights": "project_media_permission_no_blanket_MIT"
+    },
+    {
+      "path": "source/display_layout.py",
+      "bytes": 13983,
+      "sha256": "242ac54759a4c81e0eedb6b40630225be6b12843859aba9d16cf433166f2564f",
+      "kind": "display_source",
+      "rights": "project_source_public_companion_permission_rights_retained"
+    },
+    {
+      "path": "source/video_clock.py",
+      "bytes": 6032,
+      "sha256": "747a77623e9a99efeafff81224684614918ad8d0f54a623f12194445de4797d8",
+      "kind": "clock_source",
+      "rights": "project_source_public_companion_permission_rights_retained"
+    },
+    {
+      "path": "source/physics/rigid_mesh.py",
+      "bytes": 5709,
+      "sha256": "b09898ce79da01f5e67dd8758356f1da80e32da05cecd136867ac8094d3f5e8d",
+      "kind": "MIT_physics_source",
+      "rights": "MIT_exact_two_file_grant"
+    },
+    {
+      "path": "source/physics/fast_magnetic.py",
+      "bytes": 3254,
+      "sha256": "9f5cf90f6ef234c02b0979c587afef3701bb48c0940ebbede65478f74d2b25f8",
+      "kind": "MIT_physics_source",
+      "rights": "MIT_exact_two_file_grant"
+    }
+  ],
+  "manifest_scope": "Exact accepted paper/figure/media/display helper copies and the two MIT-authorized physics source copies. New metadata and rebased Markdown are separately checked.",
+  "no_scientific_payload": true
+}
