@@ -1,0 +1,16 @@
+{
+  "common_parent_epoch": 37,
+  "adaptation_epochs": 5,
+  "common_endpoint_epoch": 42,
+  "updates_per_arm": 1730,
+  "DEV_sequences": 97,
+  "weak_geometry_unchanged": true,
+  "pooled_RMSE_uT": {
+    "generated_generated": 13.636496932,
+    "generated_measured": 19.08961115,
+    "measured_generated": 22.83274699,
+    "measured_measured": 9.144479807
+  },
+  "improved_sequences_vs_generated_generated": 87,
+  "reported_source": "Frozen explicit source experiment and accepted explicit companion tables; these records do not expose per-sequence source-control residuals"
+}

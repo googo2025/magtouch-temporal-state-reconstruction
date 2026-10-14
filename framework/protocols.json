@@ -1,0 +1,19 @@
+{
+  "explicit": {
+    "collection": 459,
+    "fit": 346,
+    "internal_monitor": 16,
+    "DEV": 97,
+    "scoring": "jointly valid15 channel scalars"
+  },
+  "shared": {
+    "collection": 482,
+    "native_frames": 1343107,
+    "fit": 381,
+    "DEV": 101,
+    "scoring": "original per-channel mask; equal-domain equal-sequence selection"
+  },
+  "dense_measured_displacement_truth": false,
+  "universal_tip_generalization": false,
+  "structural_leaderboard": false
+}

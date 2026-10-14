@@ -1,0 +1,31 @@
+{
+  "schema": "frozen_aggregate_results_v1",
+  "selection": "Pooled magnetic RMSE on the full 97 exposed development sequences",
+  "selected_epoch": 138,
+  "evaluation_cutoff_epoch": 160,
+  "single_inherited_seed": true,
+  "blind_TEST": false,
+  "native_rows": 234195,
+  "valid_rows": 233791,
+  "raw15_scalar_count": 3506865,
+  "guard_failures": 0,
+  "selected": {
+    "RMSE_uT": 4.139025764220211,
+    "MAE_uT": 2.4397324334174137,
+    "macro_sequence_RMSE_uT": 2.802741639433537,
+    "absolute_residual_P95_uT": 8.57678329583568,
+    "sequence_RMSE_P95_uT": 6.572820480418299
+  },
+  "terminal": {
+    "epoch": 160,
+    "is_best": false,
+    "RMSE_uT": 4.795930922955195,
+    "MAE_uT": 2.726328449500218,
+    "absolute_residual_P95_uT": 10.191310765466824,
+    "sequence_RMSE_P95_uT": 8.02024803992079
+  },
+  "deformation_reference": "UNKNOWN no measured dense deformation ground truth",
+  "spatial_translation_error_diagnostic": null,
+  "magnetic_translation_diagnostic": "not applicable",
+  "not_raw_scientific_arrays": true
+}

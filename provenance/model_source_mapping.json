@@ -1,0 +1,21 @@
+{
+  "source_origins": {
+    "finite_cylinder_field_r393.py": "8ccd45e2b28939e0afaaa82e9b7c00153c7485f0a91cb4a4a2ff02ab641759a6",
+    "shared_shape_to_field_r581.py": "9acd522bb5cd3c39d4e231ed7b4d7913e73ffb2cdf308fd688d5dd09b454dee8",
+    "gate_B_only_common_field_r663_v2.py": "ebbbd4c643888694fbf46a57dddce4bfe065a84e2fe5a7a86eb2023536416b22",
+    "declared_support_candidate_r604.py": "54b8aa7d25af36f802215b9c2c8dc4eebf5f40ac8f09918e41ea707674b85325",
+    "supported_B_only_common_field_r665_v2.py": "eedc6969457344325bdb9e41db51e8fcbbb09ca489e112ff35470c1a724ed545",
+    "train_factorial_completion_r716.py": "1304504a9580a5f66368056e57474b65e10e4c5626f5b20c1a481e1b53c793df"
+  },
+  "relocation": {
+    "finite_cylinder": "source-exact module, filename relocated",
+    "shape_to_field": "source-exact except relative import",
+    "common_field": "source-exact class extraction, private gate removed",
+    "support": "original support body; geometry identity passed by caller, constructor accepts geometry instead of private file; original query and framewise encoder retained"
+  },
+  "verification": "Syntax and source correspondence; no relocated model execution or new scientific inference",
+  "checkpoint_included": false,
+  "raw_geometry_included": false,
+  "full_training_reproduction": false,
+  "license": "Project rights retained; existing MIT grant applies only to the two explicit-companion physics library files"
+}

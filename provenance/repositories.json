@@ -1,0 +1,12 @@
+{
+  "apparatus": {
+    "url": "https://github.com/googo2025/MagTouch-RA-3d-trajectory-recon",
+    "commit": "acb12b054abb75be53636fc5f2b4496c61de149c",
+    "scope": "Apparatus and earlier acquisition evidence; earlier noise, sampling and localization metrics are not current deformation results"
+  },
+  "explicit_companion": {
+    "url": "https://github.com/googo2025/magtouch-temporal-state-reconstruction",
+    "measured_demo_commit": "2b60e9ce171687b5e39a3972eab90acd36fdd0ee"
+  },
+  "joint_archive_published": false
+}

@@ -1,0 +1,28 @@
+{
+  "model": {
+    "source": "qualified RA-q adapter inherited by final138",
+    "original_sha256": "fea270e7e6b1553b5d13d93e08d6da014464fa9b981c51e78df431c8e49edb03",
+    "original_bytes": 6036,
+    "copy": "ra_q_autograd.py",
+    "exact_byte_copy": true
+  },
+  "objectives": {
+    "source": "shared scientific helpers from the pinned matched-parent training module",
+    "original_sha256": "83275f3636ae23db12296be8aab66293803396af437c0d8af481594a37d0f324",
+    "original_bytes": 34483,
+    "copy": "objectives.py",
+    "functions": [
+      "sha",
+      "features",
+      "position_metrics",
+      "train_trial",
+      "validation_trial",
+      "aggregate"
+    ],
+    "function_bodies_unchanged": true,
+    "private_controller_and_paths_removed": true
+  },
+  "license": "Project retains rights; MIT grant applies only to the two explicitly authorized physical-library sources",
+  "new_scientific_execution": 0,
+  "fresh_training_reproduction": false
+}

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="417.6pt" viewBox="0 0 792 417.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-14T13:48:36.510917</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 417.6 
+L 792 417.6 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 33.48 144.4032 
+L 183.96 144.4032 
+Q 188.748 144.4032 188.748 139.968 
+L 188.748 76.608 
+Q 188.748 72.1728 183.96 72.1728 
+L 33.48 72.1728 
+Q 28.692 72.1728 28.692 76.608 
+L 28.692 139.968 
+Q 28.692 144.4032 33.48 144.4032 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #edf3f8; stroke: #64748b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 225 144.4032 
+L 382.32 144.4032 
+Q 387.108 144.4032 387.108 139.968 
+L 387.108 76.608 
+Q 387.108 72.1728 382.32 72.1728 
+L 225 72.1728 
+Q 220.212 72.1728 220.212 76.608 
+L 220.212 139.968 
+Q 220.212 144.4032 225 144.4032 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #edf3f8; stroke: #64748b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 430.2 144.4032 
+L 744.84 144.4032 
+Q 749.628 144.4032 749.628 139.968 
+L 749.628 76.608 
+Q 749.628 72.1728 744.84 72.1728 
+L 430.2 72.1728 
+Q 425.412 72.1728 425.412 76.608 
+L 425.412 139.968 
+Q 425.412 144.4032 430.2 144.4032 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #edf3f8; stroke: #64748b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 189.377477 108.288 
+Q 203.453487 108.288 215.96425 108.288 
+" clip-path="url(#pfc07258ffa)" style="fill: none; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 210.76425 105.688 
+L 215.96425 108.288 
+L 210.76425 110.888 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #444444; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 389.105644 108.288 
+Q 405.918857 108.288 421.166822 108.288 
+" clip-path="url(#pfc07258ffa)" style="fill: none; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 415.966822 105.688 
+L 421.166822 108.288 
+L 415.966822 110.888 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #444444; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 430.2 252.1152 
+L 744.84 252.1152 
+Q 749.628 252.1152 749.628 247.68 
+L 749.628 184.32 
+Q 749.628 179.8848 744.84 179.8848 
+L 430.2 179.8848 
+Q 425.412 179.8848 425.412 184.32 
+L 425.412 247.68 
+Q 425.412 252.1152 430.2 252.1152 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #e7f1e9; stroke: #64748b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 587.52 146.40679 
+Q 587.52 161.828668 587.52 175.685298 
+" clip-path="url(#pfc07258ffa)" style="fill: none; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 590.12 170.485298 
+L 587.52 175.685298 
+L 584.92 170.485298 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #444444; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 33.48 252.1152 
+L 348.12 252.1152 
+Q 352.908 252.1152 352.908 247.68 
+L 352.908 184.32 
+Q 352.908 179.8848 348.12 179.8848 
+L 33.48 179.8848 
+Q 28.692 179.8848 28.692 184.32 
+L 28.692 247.68 
+Q 28.692 252.1152 33.48 252.1152 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #e7f1e9; stroke: #64748b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 423.40872 216 
+Q 389.499629 216 357.155785 216 
+" clip-path="url(#pfc07258ffa)" style="fill: none; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 362.355785 218.6 
+L 357.155785 216 
+L 362.355785 213.4 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #444444; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 430.2 375.6672 
+L 744.84 375.6672 
+Q 749.628 375.6672 749.628 371.232 
+L 749.628 301.536 
+Q 749.628 297.1008 744.84 297.1008 
+L 430.2 297.1008 
+Q 425.412 297.1008 425.412 301.536 
+L 425.412 371.232 
+Q 425.412 375.6672 430.2 375.6672 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #f7eee3; stroke: #64748b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 587.52 254.115696 
+Q 587.52 274.292372 587.52 292.903801 
+" clip-path="url(#pfc07258ffa)" style="fill: none; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 590.12 287.703801 
+L 587.52 292.903801 
+L 584.92 287.703801 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #444444; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 33.48 375.6672 
+L 348.12 375.6672 
+Q 352.908 375.6672 352.908 371.232 
+L 352.908 301.536 
+Q 352.908 297.1008 348.12 297.1008 
+L 33.48 297.1008 
+Q 28.692 297.1008 28.692 301.536 
+L 28.692 371.232 
+Q 28.692 375.6672 33.48 375.6672 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #f7eee3; stroke: #64748b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 423.40872 336.384 
+Q 389.499629 336.384 357.155785 336.384 
+" clip-path="url(#pfc07258ffa)" style="fill: none; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 362.355785 338.984 
+L 357.155785 336.384 
+L 362.355785 333.784 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #444444; stroke: #444444; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 190.8 294.466008 
+Q 190.8 274.92346 190.8 256.94616 
+" clip-path="url(#pfc07258ffa)" style="fill: none; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #b54d31; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 188.2 262.14616 
+L 190.8 256.94616 
+L 193.4 262.14616 
+z
+" clip-path="url(#pfc07258ffa)" style="fill: #b54d31; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #b54d31; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(44.912969 105.242062)">15 fields + 5 availability + dt</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(87.264531 117.133937)">21 inputs</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(237.102969 105.09675)">GRU-gated encoder, state 32</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(222.177969 117.148)">Main: zero hidden state each frame</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(506.9075 105.201437)">Spatial network: 35 → 64 → 64 → 3</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(484.806719 117.043312)">Tanh / Tanh / linear; no displacement clamp</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(519.134063 212.913437)">One function u(x) = ρ(x) f(h, x)</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(468.27 224.755313)">Fixed support and normalized nominal coordinates</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(109.44375 212.874375)">Material queries → 3D deformation</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(74.167969 224.71625)">All spatial parameters shared with magnet motion</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(476.774688 333.089)">175 probes → 25 magnet positions/orientations</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(486.641875 345.29775)">Fixed finite-cylinder readout → 15 channels</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(122.678125 333.258375)">Measured magnetic-field loss</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'" transform="translate(78.653906 345.309625)">Updates encoder and shared spatial parameters</text>
+   </g>
+  </g>
+  <g id="text_8">
+   <text style="font-size: 14px; font-family: 'Noto Sans CJK JP'; text-anchor: middle" x="396" y="17.407125" transform="rotate(-0 396 17.407125)">Structural coupling exposes material states to magnetic-response supervision</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfc07258ffa">
+   <rect x="19.8" y="41.76" width="752.4" height="367.488"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "schema": "MAGTOUCH_UMBRELLA_TWO_ROUTE_INDEX_V1",
+  "common_method": "Physical structure; measured relation identification; state-generated magnetic response testing",
+  "repository": "https://github.com/googo2025/magtouch-temporal-state-reconstruction",
+  "joint_paper": "papers/joint",
+  "routes": [
+    {
+      "id": "explicit_state",
+      "directory": "methods/explicit_state",
+      "main_model_epoch": 138,
+      "DEV_sequences": 97,
+      "scientific_question": "Measured adaptation of generated relations under fixed physics and weak geometry",
+      "citation": "methods/explicit_state/CITATION.md",
+      "independent_paper_present": true,
+      "physical_demo_identity_confirmed": true,
+      "suggested_release_tag": "explicit-state-epoch138-v1"
+    },
+    {
+      "id": "shared_field",
+      "directory": "methods/shared_field",
+      "main_model_epoch": 529,
+      "main_model_kind": "pure magnetic framewise",
+      "checkpoint_sha256": "51c6b6580507d8bde16d35a55577d6a11aae5abb744c6845123b958723a6dbe8",
+      "DEV_sequences": 101,
+      "scientific_question": "Coupled material and magnet displacement; learning without the weak displacement teacher examined",
+      "citation": "methods/shared_field/CITATION.md",
+      "independent_paper_present": true,
+      "current_paper": "methods/shared_field/paper",
+      "physical_demo_identity_confirmed": false,
+      "suggested_release_tag": "shared-field-epoch529-v1",
+      "paper_title": "Magnetic Supervision of Soft Deformation through a Shared Continuous Displacement Field"
+    }
+  ],
+  "route_source_figures_data_papers_relocated": true,
+  "scientific_values_changed": false,
+  "raw_payload_added": false,
+  "remote_mutations": "Publication identity is recorded by the actual repository commit",
+  "tags_created": false,
+  "publication": "Both independent route manuscripts and the joint framework paper"
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "companion_reproduction_scope_v1",
+  "available": [
+    "byte_verify_published_assets",
+    "inspect_epoch_scalar_curve",
+    "inspect_aggregate_tables",
+    "read_original_display_and_clock_helpers",
+    "inspect_exact_MIT_physics_source"
+  ],
+  "not_demonstrated": [
+    "fresh_training_from_scratch",
+    "fresh_model_inference",
+    "raw_data_reconstruction",
+    "geometry_or_media_regeneration",
+    "hardware_acceptance"
+  ],
+  "raw_arrays_weights_optimizer_RNG_included": false,
+  "all_transitive_dependencies_locked": false,
+  "physics_source_files_not_yet_included": []
+}

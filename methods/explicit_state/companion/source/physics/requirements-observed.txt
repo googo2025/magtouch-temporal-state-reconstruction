@@ -1,0 +1,3 @@
+# Observed numerical context, not a full environment lock or fresh-run proof.
+numpy==2.4.6
+scipy==1.17.1

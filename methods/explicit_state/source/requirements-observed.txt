@@ -1,0 +1,4 @@
+# Observed installed context; not an original environment lock.
+torch==2.14.0
+numpy==2.4.6
+scipy==1.17.1

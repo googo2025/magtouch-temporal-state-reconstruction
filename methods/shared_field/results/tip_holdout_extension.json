@@ -1,0 +1,31 @@
+{
+  "fit_sequences": 66,
+  "seen_DEV_sequences": 19,
+  "holdout_sequences": 82,
+  "selected_memory_epoch": 198,
+  "selected_framewise_epoch": 192,
+  "seen_DEV_RMSE_uT": [
+    11.007804,
+    10.01396
+  ],
+  "hemisphere_sequences": 52,
+  "hemisphere_RMSE_uT": [
+    26.67121,
+    24.135328
+  ],
+  "small_flat_sequences": 30,
+  "small_flat_RMSE_uT": [
+    10.801669,
+    8.849767
+  ],
+  "equal_domain_RMSE_uT": [
+    20.347352,
+    18.177354
+  ],
+  "field_only_scale_uT": 99.09476558487553,
+  "holdout_native_frames": 175652,
+  "holdout_scored_scalars": 2576805,
+  "framewise_lower_sequences": 77,
+  "prior_exposure": true,
+  "independent_blind_test": false
+}

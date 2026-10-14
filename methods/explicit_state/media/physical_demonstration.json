@@ -1,0 +1,24 @@
+{
+  "model": "explicit_node_magnet_state",
+  "selected_epoch": 138,
+  "identity": "direct experimenter confirmation",
+  "native_source_duration_s": 25.787333,
+  "native_source_size": [
+    1280,
+    720
+  ],
+  "native_source_fps": 30,
+  "preview_size": [
+    800,
+    450
+  ],
+  "preview_fps": 6,
+  "speed": 3,
+  "preview_frames": 52,
+  "preview_duration_s": 8.67,
+  "frame_interpolation": false,
+  "displacement_amplification": false,
+  "not_quantitative_displacement_or_latency_measurement": true,
+  "published_commit": "2b60e9ce171687b5e39a3972eab90acd36fdd0ee",
+  "preview_sha256": "2465fec7e5fd24f633dee55d2d3fae6ef25fed3e402710219deac4c94dbe04b4"
+}

@@ -1,11 +1,11 @@
-# 资料校验与科学复现范围
+# Reproduction scope
 
-本版提供已保存论文结果的检查入口，不是包含全部数据与状态的训练发行版。
+The standard-library scalar entry point reproduces pooled RMSE/MAE, the shared equal-domain equal-sequence metric, the five matched 274-epoch selections and the pure-field epoch 529 selection. It processes published summaries, not raw magnetic or geometry arrays. P95 values are original frozen full-residual quantiles: pooling SSE/SAE or sequence-level P95 values cannot reproduce an exact pooled quantile.
 
-`python tools/verify_companion.py`只使用Python标准库：逐文件字节与SHA校验、相对路径与链接检查、汇总数值及轮次标量规则检查、源码语法检查。它不导入显示模块、数值库、网络或物理库，不执行训练、推理、磁场映射、几何、绘图或视频编码。
+Shared model modules preserve the original conditional-field class, physical readout, local-pose construction and distance-support algorithm. Only relative imports and external geometry provision replace private controllers/paths. The support cache uses an explicitly supplied geometry identity. Framewise encoding is the original independent zero-state GRU step; recurrent hidden-to-hidden weights are fixed in the final configuration. The original support scale 1.25 mm and all nonfinite/inversion/singular guards remain. `provenance/model_source_mapping.json` records exact original-source hashes and relocation changes.
 
-显示与时钟源码来自实际生产版本，仅以源码形式提供；已有的视频解码、时钟和像素验收结论复用，资料打包不重复执行这些消费。配置示例不含私有路径、原数组或可直接启动原训练的入口。两份已获MIT许可的物理模块原始源码已经补齐，未运行新的物理计算；它们本身不构成完整神经网络训练发行版。
+Relocated model code received syntax/source-correspondence checks, with zero new model execution. Qualified numerical evidence comes from the closed original 138/529 evaluations. Full inference requires correctly registered geometry, input masks/baselines/timestamps and the selected checkpoint. Original raw arrays, geometry payloads, checkpoints and optimizer state are not bundled, so this is not a claim of fresh end-to-end training reproduction. Complete learning scalars and scalar aggregates, editable papers, publication figures and accepted media are provided.
 
-本版还提供[实际沿用的网络、固定解码器及共享损失/评价函数](MODEL_SOURCE.md)，不包含私有数据载入器和运行控制器。新训练或新推理仍需独立获得合法输入、全部适用源码、冻结状态和完整环境，并另行建立科学验收；本版没有执行或宣称这些步骤。原始科学数组、权重、优化器及RNG不随此资料包转移，不能通过改成JSON或CSV规避。
+The original explicit companion is retained unchanged under its own directory. Its local verification command remains `python -B methods/explicit_state/companion/tools/verify_companion.py` and its reproduction limits and licenses remain applicable.
 
-本文的形变是模型估计，稠密实测形变与外部位姿参考为空。97条开发序列参与选模，不是盲测试；单继承种子的结果不支持多种子统计稳健性。磁场指标没有空间平移误差诊断，位置误差在缺少实测参考时不可计算。
+Publication figures preserve original native times, masks, displacement factor 1, geometry and display selection. Source models are explicit epoch 138 and shared pure-field framewise epoch 529. The two DEV sets were used for selection and are not blind tests; 97/101 denominators are not a controlled cross-structure leaderboard. There is no independent dense measured displacement/pose accuracy and no arbitrary-tip guarantee.

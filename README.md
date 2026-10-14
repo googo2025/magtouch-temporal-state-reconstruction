@@ -1,66 +1,55 @@
-![实物按压与三维形变在线显示：最终显式状态第138轮](media/measured/final138_real_demo_3x.gif)
+# MagTouch 磁场监督柔性状态重建
 
-**真实器件演示｜最终显式节点／磁片状态第138轮。** 同一拍摄画面中，手指按压柔性器件，屏幕显示随触碰变化的局部三维形变。模型身份已由实验者确认；该实物展示与下方保存实验序列回放互为补充。
+![显式138轮模型实物按压与在线形变显示 3倍速](media/measured/final138_real_demo_3x.gif)
 
-GIF保留原25.8秒完整过程，抽帧后以**3倍速**播放（约8.7秒），未插值或放大形变。它展示最终模型的实际运行；磁场定量误差仍以完整序列回测为准。[媒体与证据说明](media/measured/demonstration.json)
+一个磁场监督框架，两条可以分别引用的实现路线。共同方法是：**物理模型提供状态到观测的结构，实测磁场辨识未知状态关系，预测状态产生的物理磁响应检验其解释。**两条路线在状态表示和监督路径上互补，各自保留模型、数据、实验与版本身份。
 
----
+## 两条路线
 
-![半球实验序列：三维形变与磁片状态，5倍速](media/compact/final138_compact_hemisphere_zh_5x.gif)
+| 路线 | 固定主模型 | 主要研究问题 | 独立入口 |
+| --- | ---: | --- | --- |
+| 显式节点／磁片状态 | 第138轮 | 固定物理结构与弱几何参考下，实测适应如何改善生成关系 | [路线资料](methods/explicit_state/README.md) · [引用说明](methods/explicit_state/CITATION.md) |
+| 共享连续位移场 | 第529轮 | 同一位移函数生成材料与磁片运动，能否在不读取弱位移教师时学习解释磁响应的状态 | [路线资料](methods/shared_field/README.md) · [引用说明](methods/shared_field/CITATION.md) |
 
-最终138轮模型的半球实验序列，紧凑显示三维形变、磁片位姿和15通道磁场波形。**按原实验时间5×回放，形变倍率1**；表面按位移模长共用色标，磁片颜色仅表示材质。完整80个保存状态保留，未知状态为灰色，不插值。形变是模型估计，不是实测真值。
+显式路线以磁场损失直接约束磁片状态，普通节点仍受弱几何参考与共享编码约束；共享路线通过同一位移场把磁片运动和材料查询连接到共同参数。共享场的纯磁场证据不否定显式路线的实测适应价值。两者均提供形变状态生成与物理磁响应核对，但当前没有独立稠密位移真值。
 
-[中文5×视频](media/compact/final138_compact_hemisphere_zh_5x.mp4) · [English 5× video](media/compact/final138_compact_hemisphere_en_5x.mp4) · [同一序列原生视频](media/native/sequence_07_zh.mp4) · [全部媒体与时钟说明](docs/MEDIA.md)
+## 联合论文与共同框架
 
-# 物理约束下柔性磁触觉的时序状态重建与观测一致性评价
+- [中文联合主文](papers/joint/Magnetic_Supervision_main_zh.pdf) · [English joint paper](papers/joint/Magnetic_Supervision_main_en.pdf)
+- [中文补充](papers/joint/Magnetic_Supervision_supplement_zh.pdf) · [English supplement](papers/joint/Magnetic_Supervision_supplement_en.pdf)
+- [中文可编辑全文](papers/joint/manuscript_zh.md) · [English editable manuscript](papers/joint/manuscript_en.md)
+- [共同框架与协议](framework/README.md) · [三种引用范围](CITATION.md) · [拆分论文的资源映射](docs/PAPER_AND_CITATION_MAP.md)
 
-[English](README.en.md)
+![同一时刻的形变 磁片和全部15通道磁场](papers/joint/figures/overview138_journal_zh.png)
 
-本方法从磁场历史学习柔性器件的时序形变状态，将该状态转换为柔性体形变与随体磁片位姿，再通过固定磁场映射检查与实测观测的一致性。它不以高保真材料和接触模型的精确逆解为前提，但仍依赖合理的器件几何、磁片布局和场映射。
+## 两条路线的独立论文
 
-真实实验序列的形变展示与磁场回放是主要结果。训练细节和密集通道例程放在补充资料，不作为论文的主要贡献。磁场重建误差不能直接解释为毫米级形变精度；没有稠密实测形变真值，也没有物理参数扰动稳健性实验。
+- 显式状态：[中文独立稿](methods/explicit_state/companion/paper/soft_magnetic_tactile_core_zh.pdf) · [English paper](methods/explicit_state/companion/paper/soft_magnetic_tactile_core_en.pdf)
+- 共享连续场：[中文独立稿](methods/shared_field/paper/Shared_Field_main_zh.pdf) · [English paper](methods/shared_field/paper/Shared_Field_main_en.pdf)
+- 共享场补充：[中文](methods/shared_field/paper/Shared_Field_supplement_zh.pdf) · [English](methods/shared_field/paper/Shared_Field_supplement_en.pdf)
+- [共享场可编辑中文全文](methods/shared_field/paper/manuscript_zh.md) · [Editable English](methods/shared_field/paper/manuscript_en.md)
 
-## 论文与核心效果
+共享独立稿围绕同一位移场的表示耦合、磁监督梯度、固定支撑与合法磁片方向、弱教师对照和完整101序列结果展开。联合稿组织两条实现对共同磁监督方法的互补验证；三种论文范围可以分别引用。
 
-[中文主文](paper/soft_magnetic_tactile_core_zh.pdf) · [英文主文](paper/soft_magnetic_tactile_core_en.pdf) · [中文补充](paper/soft_magnetic_tactile_supplement_zh.pdf) · [英文补充](paper/soft_magnetic_tactile_supplement_en.pdf)
+![共享529轮模型：四时刻形变与全部15通道磁响应](methods/shared_field/paper/figures/shared_overview_zh.png)
 
-主文中文8页、英文9页，补充各14页。四份PDF已完成45页逐页视觉验收；Word视觉验收不包含在此结果中。[Markdown源稿](paper/source/manuscript_core_zh.md)仅将图片链接改为仓库相对路径，正文未另作修改。
+## 原协议下的冻结结果
 
-![真实半球实验序列的四时刻估计形变与磁片状态](figures/deformation_zh.png)
+| 路线 | 开发序列 | 池化磁场RMSE | MAE | 主要选模口径 |
+| --- | ---: | ---: | ---: | --- |
+| 显式节点／磁片状态 | 97 | 4.139 µT | 2.440 µT | 全评分标量池化 |
+| 共享连续位移场 | 101 | 4.034 µT | 1.811 µT | 等域等序列RMSE 2.822 µT |
 
-同一真实半球实验序列，展示首次有效保存时刻、最大估计位移、最大保存时刻磁场残差及末保存时刻。所有面板共用XYZ毫米比例、视角、范围和色标，位移倍率为1。选择规则用于展示，不替代总体评价，也不将估计视作真值。
+两者的序列范围、掩码、聚合权重和容量不同，不能由这张表直接判断结构优劣。来源对照与共同预算组件对照分别服务于两条路线的科学问题。
 
-![同一实验序列的完整原生Hall3磁场回放与残差](figures/field_replay_zh.png)
+## 代码 数据与复算
 
-## 总体评价
+两条路线分别保存自己的`source`、`results`和论文入口，实物媒体归属已直接确认的显式138路线。原79文件显式伴随资料完整保存在[显式路线伴随目录](methods/explicit_state/companion)，原文件字节保持一致。共同装置资料只记录来源，分支几何和物理映射保留原定义，不把它们混成一个权重、损失或评分协议。
 
-模型按完整97条已暴露开发实验序列的磁场RMSE选取，评价截止160轮。共有234195个原生时刻，其中233791个有效时刻；使用单一继承种子，不是封存盲测试或多种子显著性结论。
+运行 `python -B tools/recompute_results.py` 复算公开标量结果，运行 `python -B tools/verify_release.py` 核验文件清单和哈希。原始科学数组、注册几何与权重未随本包公开；可复现范围详见[说明](docs/REPRODUCTION.md)。
 
-| 状态 | 磁场RMSE µT | MAE µT |
-| --- | ---: | ---: |
-| 138轮验证最佳 | 4.139025764220211 | 2.4397324334174137 |
-| 160轮末态 | 4.795930922955195 | 2.726328449500218 |
+## 装置与引用
 
-详细数值见[结果汇总](data/results_summary.json)和[正文表格](data/paper_tables_zh.json)。[0至160轮曲线数值](data/training_curve.json)保留早期目标差异、0轮TRAIN空值及0至36轮实测开发评价空值；这些是轮次标量，不是原始科学数组。
+[实验装置与采集仓库](https://github.com/googo2025/MagTouch-RA-3d-trajectory-recon)提供硬件来源；[现有研究仓库](https://github.com/googo2025/magtouch-temporal-state-reconstruction)为统一公开入口。以后引用某条路线时，应同时指明其目录和实际发布的固定提交或版本；论文则引用对应科学论述。共同框架、显式路线、共享路线各自的引用说明已分开。
 
-## 方法与资料
-
-![磁场时序到估计形变与磁场一致性的流程](figures/method_zh.png)
-
-推理使用磁场历史及原生时间、有效和重置状态，不把触头命令或CAD作为逆向输入。普通柔性体位移不直接进入磁场映射；磁片位姿进入映射。因此观测一致性支持的是该映射下的状态解释，不能独立证明全部柔性体位移准确。
-
-仓库包含论文、图、原生视频、轻量预览、汇总数值、实际沿用的网络与固定解码器、共享损失/评价函数、显示与时钟辅助源码及便携配置说明。[模型实现说明](docs/MODEL_SOURCE.md)明确来源与调用所需输入。它不包含原始TRAIN或DEV数组、模型权重、优化器、RNG、私有几何缓存、字体或第三方二进制。
-
-## 校验与复现范围
-
-在仓库根目录运行：
-
-```text
-python tools/verify_companion.py
-```
-
-此入口校验资料字节、路径、表格与曲线口径，不加载模型或调用物理计算。[复现范围](docs/REPRODUCTION.md)区分已保存结果检查与新的科学复现；本包不声称完整fresh训练复现。[依赖说明](docs/DEPENDENCIES.md)记录观察到的环境上下文，不冒充原训练锁定环境。
-
-## 权利范围
-
-两份物理模块[rigid_mesh.py](source/physics/rigid_mesh.py)与[fast_magnetic.py](source/physics/fast_magnetic.py)已按精确原始字节纳入，并获项目所有者MIT公开许可；许可仅覆盖这两份文件。代码审查未发现直接复制公开库的证据，但不把有限检索当作法律原创性证明；两模块实现的是经典几何和磁场方法，见[来源说明](docs/SOURCE_ORIGIN.md)和[源码保管状态](source/physics_source_custody.json)。其余源码、论文、数据汇总和媒体不自动套用MIT，见[权利范围](LICENSE.md)。完整科学复现与邮件交付不由本包的资料校验代替。
+本仓库按共同框架、显式138路线与共享529路线分别组织论文、源码、结果和引用入口。原显式公开资料及实测GIF保留。[上传与版本说明](docs/UPLOAD.md) · [许可范围](LICENSE.md)。

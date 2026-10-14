@@ -1,0 +1,421 @@
+{
+  "status": "FINAL_BILINGUAL_PDF_AND_EDITABLE_SOURCE_ACCEPTED",
+  "PDFs": 4,
+  "total_pages": 51,
+  "source_numeric_tables_equal": true,
+  "models": [
+    138,
+    529
+  ],
+  "human_final_format": "PDF＋可编辑源稿即可",
+  "pages": [
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 1,
+      "RGB_sha256": "ab42d84b03f6324b5f03114d54069ada60c18142bff68bbc0c29af22a01a4121",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 2,
+      "RGB_sha256": "14fb448963a384e50563b11684e817b61329dc2b6a071ec860bc9c904d272fdf",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 3,
+      "RGB_sha256": "653e2ca7d4712116a878f5ba89965527882391eff86e0952b06076f3b21b96f0",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 4,
+      "RGB_sha256": "b0df74b5bc366b6610bb0d06e1ee318fc6741e028d7fe8e4a0f197871c7df6e5",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 5,
+      "RGB_sha256": "8494cb63622760db520e263683d28543e2a89057bcf8251a83542a0b6a15dfeb",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 6,
+      "RGB_sha256": "03a4b6d2942a69a23c8a368e0e739e38017b6038b69a5bc436bce4833c5673d8",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 7,
+      "RGB_sha256": "13fa5115e866bbd1d309172adc8d6fe9c36031290aa20b27946f9bb5ed7ea769",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 8,
+      "RGB_sha256": "977592ae5bea6223d72cdf533e7d0ad26f55bebb162de02dd8344099eb4007af",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 9,
+      "RGB_sha256": "ee7d09f47b0f590371c5f73989d4187baf2b9883644904cae71e28a6bbb1dd99",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 10,
+      "RGB_sha256": "ef07391d35f72405c0354cfbe13e83e1983badb74aff4c33cd393b0c244e5b11",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 11,
+      "RGB_sha256": "6539dc0025662f9beee27145e4ae97219ac37d35622ea920774a4802cd9046ba",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 12,
+      "RGB_sha256": "ca2aed8adeb2cc3e747a5f04a26b625fbc7aed8178fba70fa61cc6add1578352",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 13,
+      "RGB_sha256": "1d894a258f60daacef7f3296975d6b0ccc78e29f024027d4fff030a9725aee1b",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 14,
+      "RGB_sha256": "86b7aacdc4c50837ffb9101e0e9a8a1822552afc8ceebf84109ae1539d449c9f",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 15,
+      "RGB_sha256": "95a75f7f1f1d26952b7e6ea39bf6a03614777533df47361cb433f7dfa25dd8d4",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_en",
+      "page": 16,
+      "RGB_sha256": "3c407150a07019e052b7271e0d2d7a750b4df43886ed12d297cba5d0b0148f37",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 1,
+      "RGB_sha256": "efaa86a945099d8cedba1dfd7d394568af9777a5861fd5ce3ea9c006dc4a23da",
+      "review": "exact RGB-identical to visually inspected v10 page; separate byte comparison verified",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 2,
+      "RGB_sha256": "2f8f0d97cc101637740e32382b83693795cb216f000a112c461e70ebb9d1d65f",
+      "review": "exact RGB-identical to visually inspected v10 page; separate byte comparison verified",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 3,
+      "RGB_sha256": "191be6861bd860b8193a1cb0c77a3dd103b53290466d9b44e9228eafcbcbcf14",
+      "review": "exact RGB-identical to visually inspected v10 page; separate byte comparison verified",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 4,
+      "RGB_sha256": "3fc0b190a9846286ee74cc35ba3f8795c6ec2e6b41d82923fbe1784a4a3130fe",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 5,
+      "RGB_sha256": "6975149bca31aaa8f63593897fbd955d185f028d2376ba929e2fb2ceec7dc8d6",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 6,
+      "RGB_sha256": "58febfb576b6857bcc70cac3f2af26e773859abb63eca72fabebed1fdc0ad5aa",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 7,
+      "RGB_sha256": "94d1aa01b8ebb338d5c5cdf950caab1de58b8114518a011e494020b078eebc22",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 8,
+      "RGB_sha256": "214dd88d92c200fe875569a945025a38d24aafa394f969dc5e58ed5091bdd9a5",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 9,
+      "RGB_sha256": "e295f6b0bd67be1ec454f33b9068eeeb7ead40a479bc3dd777309f00031e4dee",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 10,
+      "RGB_sha256": "7708ee59fb7f59fcc041710294bcb7b8d4e8f233fab7acb6cb1c88b423dfc076",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 11,
+      "RGB_sha256": "6f9d15c36ed8781765514f5ec91704261134ba358363531ddb924c84a13a2557",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 12,
+      "RGB_sha256": "37d04502c77b0bf0138ea10263d33ead89a379b45e4c048d18dfe1d1f62784e1",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 13,
+      "RGB_sha256": "2ce03256d8d4a8dba1c81399205fc69700467a6da20101d0e9428739cc59189c",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_main_zh",
+      "page": 14,
+      "RGB_sha256": "db6b52bd5289fbcc755f2f062e3ac6c35f6379975de96b7a499ba9d7a486305f",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 1,
+      "RGB_sha256": "882ab4e2b716771195eabfeab27b83d078e6e1287101b503b7cfef07745ec95b",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 2,
+      "RGB_sha256": "b793a18b44bd4cf2d0dd3370e30b4a3f5bb4039a46bdc1b5af27624b16498671",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 3,
+      "RGB_sha256": "fed8e5439436a7af064d5ab73daf727d3eff304e496c924b4a1727bd2540f7f4",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 4,
+      "RGB_sha256": "0868d06e5736ad4f0f018512303e3fd503f1483fbdfb55f5b644fd3d7c84fda6",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 5,
+      "RGB_sha256": "c0be0a61d1a7564055d348158c192eab8282667677e3a6b22eb18c4f4b9d511e",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 6,
+      "RGB_sha256": "ee9dc2e5dc5dae31e836b588b8f5d455335408cbc15e162c27d5f2739efebc3f",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 7,
+      "RGB_sha256": "9ea4d5db8002309558eced41b0db69f08ce0fb6ed585a66fae36fc18c0bc5eaa",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 8,
+      "RGB_sha256": "d86345934edf8c26032459228dbd4599027998a322b76c1cd65f42b0aa0fb87b",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 9,
+      "RGB_sha256": "aeef2ba4185a6a0bd428805e02b82666a86f4e11a70fe2c0128e4e8ea81d256a",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 10,
+      "RGB_sha256": "6c510567167830e6f367eb4d6294b2e44979ee35e055972d59640b6d5fa6c07d",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_en",
+      "page": 11,
+      "RGB_sha256": "6ca1b35b60a01c6b9987e8eed7bb00a87588cf7952cd5a1b864a1c5f1ca34215",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_zh",
+      "page": 1,
+      "RGB_sha256": "c6946cb5fd31a5fed609227c014d3d734d23aacfeaf9e446f57304f339216011",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_zh",
+      "page": 2,
+      "RGB_sha256": "6865e2086c316930d4a902f26c9d562de49eef00ab54209c765cdfd3ca7850d9",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_zh",
+      "page": 3,
+      "RGB_sha256": "c68a542caa34cc638282d651e936ff64cd8e3b215ff042af3951f80bb1dd61e2",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_zh",
+      "page": 4,
+      "RGB_sha256": "2c78578bd89997b63eb444013152c375ed97ad74b43773c8d63428c8ecd6fc81",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_zh",
+      "page": 5,
+      "RGB_sha256": "08f061493e0462b39b644991aaf7a3ef1e95b47439358c09f163978dbba90a30",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_zh",
+      "page": 6,
+      "RGB_sha256": "26f7b04e8691ec0194e4a4ecf193f200869c78331c958e23c6264f28038462e1",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_zh",
+      "page": 7,
+      "RGB_sha256": "6ba3652b67dc412d99fd659efbd5d7c1095c77ce4ff72eb3d0274cedbae5ae55",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_zh",
+      "page": 8,
+      "RGB_sha256": "dd8c79ae9b5ec18283e29921dc577fea518521ec944a9da44ac3dc7db938e2d2",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_zh",
+      "page": 9,
+      "RGB_sha256": "81a929f2211b2050a46a8c0eab04b72b30341f5bb7f2358569c95ffd3f3db691",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    },
+    {
+      "document": "Magnetic_Supervision_supplement_zh",
+      "page": 10,
+      "RGB_sha256": "29ed47ba210142f103b2ef7ee2e152f8b745b207d988624cc936eb068b668f98",
+      "review": "direct final rendered page opened and visually inspected",
+      "visual_pass": true,
+      "text_bounds_pass": true
+    }
+  ]
+}
