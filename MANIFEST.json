@@ -27,15 +27,21 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 5028,
-      "sha256": "53a58bb111e0bf69102cfb45eb371e974e869535913f8bb98f7d2d2739f6750a",
-      "git_sha": "78c5f69f977a4b3e620e2cd5f1cec6fb24de2cbe"
+      "bytes": 5017,
+      "sha256": "12b12f4bb6801da49ec8575fd9fe6bc48f7977121ebbb5aa02466b0979bdb999",
+      "git_sha": "8804a15039c9b37fa2a48a763f880790aa363193"
     },
     {
       "path": "README.md",
-      "bytes": 5191,
-      "sha256": "b7dce2fc9f969300b553cdc5c78c9cb59ae9c60961a8aac95bbb447e792f6b8e",
-      "git_sha": "480f7eed1b38de0016d7c1ce2416bdf83e08db48"
+      "bytes": 5017,
+      "sha256": "12b12f4bb6801da49ec8575fd9fe6bc48f7977121ebbb5aa02466b0979bdb999",
+      "git_sha": "8804a15039c9b37fa2a48a763f880790aa363193"
+    },
+    {
+      "path": "README.zh.md",
+      "bytes": 5171,
+      "sha256": "6295ee0d53d96330efcac2a64ceb9ac08fd08c8b7393aa3103ae48a744dda6a6",
+      "git_sha": "4149226532e77aad741c982b4acd7223d38ef256"
     },
     {
       "path": "docs/PAPER_AND_CITATION_MAP.md",
@@ -2457,5 +2463,11 @@
       "bytes": 6723,
       "mode": "100644"
     }
-  ]
+  ],
+  "default_homepage_language": "en",
+  "language_entries": {
+    "en": "README.md",
+    "zh": "README.zh.md",
+    "english_compatibility": "README.en.md"
+  }
 }
